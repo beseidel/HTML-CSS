@@ -1,0 +1,200 @@
+/*CSS reset settings here*/
+* {
+  margin: 0px;
+  padding: 0px;
+}
+.container {
+  height: 1200px;
+  width: 933px;
+  background-color: rgb(18, 33, 53);
+}
+.head {
+  height: 100px;
+  width: 800px;
+  background-color: rgb(18, 33, 53);
+  display: inline-block;
+  vertical-align: top;
+  line-height: 100px;
+}
+.nav {
+  height: 100px;
+  width: 910px;
+  background-color: rgb(18, 33, 53);
+  display: inline-block;
+  vertical-align: top;
+  line-height: 100px;
+  color: white;
+  margin-left: 20px;
+  margin-right: px;
+}
+.span {
+  color: blue;
+}
+
+.mainimage {
+  height: 900x;
+  width: 80px;
+  display: inline-block;
+  vertical-align: top;
+}
+#home a {
+  color: white;
+  margin: 20px;
+}
+a {
+  color: white;
+}
+.outline {
+  height: 900px;
+  width: 850px;
+  background-color: white;
+  padding: 20px;
+  margin: 20px;
+  display: inline-block;
+  vertical-align: top;
+}
+.mainimage img {
+  height: 400px;
+  width: 850px;
+  display: inline-block;
+  background-color: white;
+}
+.body {
+  height: 500px;
+  width: 870px;
+  background-color: white;
+  font-size: 12px;
+  color: white;
+  display: inline-block;
+  vertical-align: top;
+}
+#services {
+  height: 200px;
+  width: 250px;
+  margin-top: 20px;
+  margin-right: 10px;
+  padding: 10px;
+  background-color: rgb(69, 101, 172);
+  color: white;
+  display: inline-block;
+  vertical-align: top;
+}
+.tool img {
+  height: 10px;
+  width: 10px;
+}
+.button {
+  height: 40px;
+  width: 130px;
+  background-color: rgb(94, 153, 203);
+  padding: 2px;
+  border-radius: 10px;
+  line-height: 5px;
+  margin-top: 10px;
+  color: white;
+  background-image: -webkit-linear-gradient(blue);
+}
+#projects {
+  height: 200px;
+  width: 250px;
+  margin-top: 20px;
+  padding: 10px;
+  margin-right: 10px;
+  background-color: rgb(69, 101, 172);
+  color: white;
+  display: inline-block;
+  vertical-align: top;
+}
+#clients {
+  height: 200px;
+  width: 250px;
+  margin-left: 20px;
+  padding: 20px;
+  background-color: rgb(69, 101, 172);
+  color: white;
+  display: inline-block;
+  vertical-align: top;
+}
+#world {
+  height: 200px;
+  width: 250px;
+  margin-top: 20px;
+  padding: 10px;
+  margin-right: 10px;
+  background-color: white;
+  color: black;
+  display: inline-block;
+  vertical-align: top;
+}
+
+#world h2 {
+  size: 40px;
+}
+#worldimage {
+  height: 150px;
+  width: 260px;
+  margin-top: 20px;
+  display: inline-block;
+  vertical-align: top;
+}
+#goal {
+  height: 200px;
+  width: 250px;
+  margin-top: 20px;
+  padding: 10px;
+  margin-right: 10px;
+  background-color: white;
+  color: black;
+  display: inline-block;
+  vertical-align: top;
+}
+#testimonial {
+  height: 200px;
+  width: 250px;
+  margin-top: 20px;
+  padding: 10px;
+  margin-right: 10px;
+  background-color: white;
+  color: black;
+  display: inline-block;
+  vertical-align: top;
+}
+#testimonial p {
+  font-style: italic;
+  color: black;
+  background-color: rgb(213, 223, 245);
+  padding: 20px;
+}
+
+#testimonialsmall p {
+  background-color: white;
+  font-size: 10px;
+  font-style: italic;
+}
+.foot {
+  height: 400px;
+  width: 1500px;
+  margin-top: 20px;
+  margin-right: 20px;
+  padding: 20px;
+  background-color: 166, 185, 206;
+  display: inline-block;
+  vertical-align: top;
+}
+.navtwo {
+  height: 15px;
+  width: 810px;
+  background-color: rgb(69, 101, 172);
+  vertical-align: top;
+  display: inline-block;
+  margin-left: -20px;
+  padding: 40px;
+}
+/* navtwo a{
+
+
+} */
+#small p {
+  font-style: italic;
+  size: 10px;
+}
